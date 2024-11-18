@@ -25,13 +25,13 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 *A structured SQL database designed to track and analyze financial transactions.*  
 - **Tech Stack:** SQL(SQL Server)  
 - **Highlights:** Includes triggers,user-defined functions,stored-procedures, transaction tracking, backup and recovery techniques and account management queries.  
-- **Repo:** [Link to Repository](#)  
+- **Repo:** (https://github.com/RoyCheru/Data-analysis/blob/main/financialtransactiondb.sql)  
 
 ### 🛒 **Sales and Inventory Management System**  
 *A complete SQL solution for managing sales and inventory data.*  
 - **Tech Stack:** SQL(PostgreSQL)  
 - **Highlights:** Advanced queries for data cleaning, inventory tracking, and sales analysis.  
-- **Repo:** [Link to Repository](#)  
+- **Repo:**   
 
 ### 📞 **Call Centre Dashboard**  
 *A dynamic Excel dashboard to visualize call center performance metrics.*  
