@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 *A complete SQL solution for managing sales and inventory data.*  
 - **Tech Stack:** SQL(PostgreSQL)  
 - **Highlights:** Advanced queries for data cleaning, inventory tracking, and sales analysis.  
-- **Repo:**   
+- **Repo:**   https://github.com/RoyCheru/Data-analysis/blob/main/sales%20management%20database.sql
 
 ### 📞 **Call Centre Dashboard**  
 *A dynamic Excel dashboard to visualize call center performance metrics.*  
