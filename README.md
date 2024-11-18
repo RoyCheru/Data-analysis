@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 ### 📊 **Financial Transaction Database**  
 *A structured SQL database designed to track and analyze financial transactions.*  
 - **Tech Stack:** SQL(SQL Server)  
-- **Highlights:** Includes user-defined functions, transaction tracking, backup and recovery techniques and account management queries.  
+- **Highlights:** Includes triggers,user-defined functions,stored-procedures, transaction tracking, backup and recovery techniques and account management queries.  
 - **Repo:** [Link to Repository](#)  
 
 ### 🛒 **Sales and Inventory Management System**  
@@ -35,8 +35,8 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 
 ### 📞 **Call Centre Dashboard**  
 *A dynamic Excel dashboard to visualize call center performance metrics.*  
-- **Tech Stack:** Excel  
-- **Highlights:** KPI analysis, trend charts, and slicer-based filtering.  
+- **Tech Stack:** Excel, Power query,Power pivot  
+- **Highlights:** KPI analysis, ETL, trend charts, and slicer-based filtering.  
 - **Repo:** [Link to Repository](#)  
 
 ### 🛍️ **Customer Retail Dashboard**  
@@ -44,12 +44,6 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 - **Tech Stack:** Excel  
 - **Highlights:** Interactive visuals, sales trends, and segmentation insights.  
 - **Repo:** [Link to Repository](#)  
-
----
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ---
 
