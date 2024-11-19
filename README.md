@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Roy Cheruiyot 
+# Hi there! 👋 I'm Roy Toro Cheruiyot 
 
 Welcome to my GitHub portfolio! I am passionate about using data to solve problems and tell compelling stories. Here, you'll find my projects showcasing my skills in SQL, Python, and Excel for data analysis and visualization.  
 
