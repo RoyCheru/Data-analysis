@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 ## 💼 Skills & Tools  
 - **Programming Languages:** Python, SQL  
 - **Data Analysis Tools:** Excel, Pandas, NumPy  
-- **Visualization:** Excel Dashboards, Matplotlib, Seaborn  
+- **Visualization:** Excel Dashboards  
 - **Other Tools:** Git, Power Query, Power pivot  
 
 ---
@@ -22,15 +22,23 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 ## 📂 Featured Projects  
 
 ### 📊 **Financial Transaction Database**  
-*A structured SQL database designed to track and analyze financial transactions.*  
+*A structured SQL database designed to manage and analyze financial transactions while ensuring data integrity and reliability.*  
 - **Tech Stack:** SQL(SQL Server)  
-- **Highlights:** Includes triggers,user-defined functions,stored-procedures, transaction tracking, backup and recovery techniques and account management queries.  
+- **Highlights:**
+   Designed comprehensive schemas to organize customer accounts, transactions, and branch data.
+  Implemented backup and recovery strategies to safeguard against data loss.
+  Developed advanced queries for transaction tracking, customer management, and account reconciliation.
+  Included user-defined functions for enhanced automation and reporting.
 - **Repo:** (https://github.com/RoyCheru/Data-analysis/blob/main/financialtransactiondb.sql)  
 
 ### 🛒 **Sales and Inventory Management System**  
-*A complete SQL solution for managing sales and inventory data.*  
+*A robust SQL database designed to streamline sales and inventory tracking, ensuring data accuracy and operational efficiency.*  
 - **Tech Stack:** SQL(PostgreSQL)  
-- **Highlights:** Advanced queries for data cleaning, inventory tracking, and sales analysis.  
+- **Highlights:**
+  Developed optimized database schemas to handle product inventories, sales records, and supplier details.
+  Implemented constraints and triggers to maintain data integrity and prevent anomalies.
+  Designed complex queries for inventory forecasting, sales trend analysis, and real-time stock updates.
+  Incorporated performance optimization techniques for handling large datasets efficiently.  
 - **Repo:**   https://github.com/RoyCheru/Data-analysis/blob/main/sales%20management%20database.sql
 
 ### 📞 **Call Centre Report Dashboard**  
@@ -39,8 +47,18 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 - **Highlights:** KPI analysis, ETL, trend charts, and slicer-based filtering.  
 - **Repo:** https://github.com/RoyCheru/Data-analysis/blob/main/call%20centre%20report.xlsx
 
+### 📈 Sales Profit and Revenue Report
+A comprehensive dashboard designed to analyze and visualize sales performance metrics.
+
+Tech Stack: Excel
+Highlights:
+Dynamic visuals showcasing sales trends, profit margins, and revenue growth.
+Interactive features for filtering data by region, product, or time period.
+Provides actionable insights to enhance business decision-making.
+**Repo:** 
+
 ### 🛍️ **Coca-cola Retail Dashboard**  
-*A visually engaging Excel dashboard for analyzing retail customer behavior.*  
+*A visually engaging Excel dashboard for analyzing coca-cola sales.*  
 - **Tech Stack:** Excel  
 - **Highlights:** Interactive visuals, sales trends, and segmentation insights.  
 - **Repo:** https://github.com/RoyCheru/Data-analysis/blob/main/Cocacola%20usa%20retailer%20dashboard.xlsx  
