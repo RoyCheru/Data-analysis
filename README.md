@@ -50,8 +50,8 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 ### 📈 Sales Profit and Revenue Report
 A comprehensive dashboard designed to analyze and visualize sales performance metrics.
 
--**Tech Stack:** Excel
--**Highlights:**
+- **Tech Stack:** Excel
+- **Highlights:**
    Dynamic visuals showcasing sales trends, profit margins, and revenue growth.
    Interactive features for filtering data by region, product, or time period.
    Widely utilized ad-hoc analysis for customized insights and immediate decision-making.
