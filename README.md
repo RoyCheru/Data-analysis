@@ -43,7 +43,7 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 *A visually engaging Excel dashboard for analyzing retail customer behavior.*  
 - **Tech Stack:** Excel  
 - **Highlights:** Interactive visuals, sales trends, and segmentation insights.  
-- **Repo:** [Link to Repository](#)  
+- **Repo:** https://github.com/RoyCheru/Data-analysis/blob/main/Cocacola%20usa%20retailer%20dashboard.xlsx  
 
 ---
 
