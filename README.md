@@ -33,13 +33,13 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 - **Highlights:** Advanced queries for data cleaning, inventory tracking, and sales analysis.  
 - **Repo:**   https://github.com/RoyCheru/Data-analysis/blob/main/sales%20management%20database.sql
 
-### 📞 **Call Centre Dashboard**  
+### 📞 **Call Centre Report Dashboard**  
 *A dynamic Excel dashboard to visualize call center performance metrics.*  
 - **Tech Stack:** Excel, Power query,Power pivot  
 - **Highlights:** KPI analysis, ETL, trend charts, and slicer-based filtering.  
-- **Repo:** [Link to Repository](#)  
+- **Repo:** https://github.com/RoyCheru/Data-analysis/blob/main/call%20centre%20report.xlsx
 
-### 🛍️ **Customer Retail Dashboard**  
+### 🛍️ **Coca-cola Retail Dashboard**  
 *A visually engaging Excel dashboard for analyzing retail customer behavior.*  
 - **Tech Stack:** Excel  
 - **Highlights:** Interactive visuals, sales trends, and segmentation insights.  
