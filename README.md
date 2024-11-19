@@ -55,7 +55,7 @@ Highlights:
 Dynamic visuals showcasing sales trends, profit margins, and revenue growth.
 Interactive features for filtering data by region, product, or time period.
 Provides actionable insights to enhance business decision-making.
-**Repo:** 
+**Repo:** https://github.com/RoyCheru/Data-analysis/blob/main/Sales%20Profit%20and%20Revenue%20report.xlsx
 
 ### 🛍️ **Coca-cola Retail Dashboard**  
 *A visually engaging Excel dashboard for analyzing coca-cola sales.*  
