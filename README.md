@@ -25,20 +25,20 @@ Welcome to my GitHub portfolio! I am passionate about using data to solve proble
 *A structured SQL database designed to manage and analyze financial transactions while ensuring data integrity and reliability.*  
 - **Tech Stack:** SQL(SQL Server)  
 - **Highlights:**
-   Designed comprehensive schemas to organize customer accounts, transactions, and branch data.
-  Implemented backup and recovery strategies to safeguard against data loss.
-  Developed advanced queries for transaction tracking, customer management, and account reconciliation.
-  Included user-defined functions for enhanced automation and reporting.
+   - Designed comprehensive schemas to organize customer accounts, transactions, and branch data.
+   - Implemented backup and recovery strategies to safeguard against data loss.
+   - Developed advanced queries for transaction tracking, customer management, and account reconciliation.
+   - Included user-defined functions for enhanced automation and reporting.
 - **Repo:** (https://github.com/RoyCheru/Data-analysis/blob/main/financialtransactiondb.sql)  
 
 ### 🛒 **Sales and Inventory Management System**  
 *A robust SQL database designed to streamline sales and inventory tracking, ensuring data accuracy and operational efficiency.*  
 - **Tech Stack:** SQL(PostgreSQL)  
 - **Highlights:**
-  Developed optimized database schemas to handle product inventories, sales records, and supplier details.
-  Implemented constraints and triggers to maintain data integrity and prevent anomalies.
-  Designed complex queries for inventory forecasting, sales trend analysis, and real-time stock updates.
-  Incorporated performance optimization techniques for handling large datasets efficiently.  
+  - Developed optimized database schemas to handle product inventories, sales records, and supplier details.
+  - Implemented constraints and triggers to maintain data integrity and prevent anomalies.
+  - Designed complex queries for inventory forecasting, sales trend analysis, and real-time stock updates.
+  - Incorporated performance optimization techniques for handling large datasets efficiently.  
 - **Repo:**   https://github.com/RoyCheru/Data-analysis/blob/main/sales%20management%20database.sql
 
 ### 📞 **Call Centre Report Dashboard**  
